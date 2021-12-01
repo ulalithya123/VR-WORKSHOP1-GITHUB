@@ -9,3 +9,22 @@
 **BOLD TYPE OF FONTSTYLE**
 
 ***BOTH BOLD AND ITALIC TYPE OF FONTSTYLE***
+
+* FRUITS
+
+  *ORANGES
+  
+  *APPLES
+ 
+  *BANANAS
+  
+1.VEGETABLES
+
+    1. ONIONS
+  
+    2. CARROTS 
+  
+    3. CHILLI
+   
+[GOOGLE](https://www.google.com/)
+    
