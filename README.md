@@ -11,20 +11,16 @@
 ***BOTH BOLD AND ITALIC TYPE OF FONTSTYLE***
 
 * FRUITS
-
-  *ORANGES
+  * ORANGES
+  * APPLES
+  * BANANAS
   
-  *APPLES
- 
-  *BANANAS
-  
-1.VEGETABLES
-
+1. VEGETABLES
     1. ONIONS
-  
     2. CARROTS 
-  
     3. CHILLI
    
 [GOOGLE](https://www.google.com/)
+
+![NATURE](https://thumbs.dreamstime.com/z/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg)
     
